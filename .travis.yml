@@ -6,4 +6,4 @@ before_install:
   - docker build -t web_image -f Dockerfile.dev .
 
 script:
-  - docker run -e CI=true web_imabe npm t -- --coverage
+  - docker run -e CI=true web_image npm t -- --coverage
