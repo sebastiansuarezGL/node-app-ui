@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/sebastiansuarezGL/node-app-ui.svg?branch=main)](https://travis-ci.com/sebastiansuarezGL/node-app-ui)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
